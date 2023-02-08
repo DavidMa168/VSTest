@@ -15,6 +15,7 @@ namespace GitTestWeb.Controllers
 
         public IActionResult Index()
         {
+            string test = "TEST";
             return View();
         }
 
